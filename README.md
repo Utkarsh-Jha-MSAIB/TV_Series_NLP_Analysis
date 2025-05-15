@@ -11,8 +11,8 @@ Using natural language processing (NLP), we analyze patterns in scripts to uncov
 - Script-based obscenity and tone
 
 <!-- Markdown fallback for tools that don’t render HTML -->
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/e0c8e5cc-9e9d-4ca7-874f-1eab732a70bc" width="300" alt="My image"/>
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/e0c8e5cc-9e9d-4ca7-874f-1eab732a70bc" width="500" alt="My image"/>
 </p>
 
 
