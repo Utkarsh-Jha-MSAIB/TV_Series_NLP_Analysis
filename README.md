@@ -1,0 +1,11 @@
+### 🔹 [Preprocessing and Sentiment Analysis](notebooks/Preprocessing%20and%20Sentiment%20Analysis.ipynb)
+
+- [Reading the data set](notebooks/Preprocessing%20and%20Sentiment%20Analysis.ipynb#reading-the-data-set)
+- [Preprocessing of the data](notebooks/Preprocessing%20and%20Sentiment%20Analysis.ipynb#preprocessing-of-the-data)
+- [Using Bing Liu Lexicon](notebooks/Preprocessing%20and%20Sentiment%20Analysis.ipynb#using-bing-liu-lexicon)
+- [Using LM dictionary](notebooks/Preprocessing%20and%20Sentiment%20Analysis.ipynb#using-lm-dictionary)
+- [Using TextBlob](notebooks/Preprocessing%20and%20Sentiment%20Analysis.ipynb#using-textblob)
+- [Using Vader](notebooks/Preprocessing%20and%20Sentiment%20Analysis.ipynb#using-vader)
+- [Using Obscene Words](notebooks/Preprocessing%20and%20Sentiment%20Analysis.ipynb#using-obscene-words)
+- [Creating consolidated dataset](notebooks/Preprocessing%20and%20Sentiment%20Analysis.ipynb#creating-consolidated-dataset)
+- [Writing the dataset](notebooks/Preprocessing%20and%20Sentiment%20Analysis.ipynb#writing-the-dataset)
