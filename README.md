@@ -1,11 +1,13 @@
-### 🔹 [Preprocessing and Sentiment Analysis](notebooks/Preprocessing%20and%20Sentiment%20Analysis.ipynb)
+**Character Analysis Across Iconic TV Series**
 
-- [Reading the data set](Preprocessing%20and%20Sentiment%20Analysis.ipynb#reading-the-data-set)
-- [Preprocessing of the data](notebooks/Preprocessing%20and%20Sentiment%20Analysis.ipynb#preprocessing-of-the-data)
-- [Using Bing Liu Lexicon](notebooks/Preprocessing%20and%20Sentiment%20Analysis.ipynb#using-bing-liu-lexicon)
-- [Using LM dictionary](notebooks/Preprocessing%20and%20Sentiment%20Analysis.ipynb#using-lm-dictionary)
-- [Using TextBlob](notebooks/Preprocessing%20and%20Sentiment%20Analysis.ipynb#using-textblob)
-- [Using Vader](notebooks/Preprocessing%20and%20Sentiment%20Analysis.ipynb#using-vader)
-- [Using Obscene Words](notebooks/Preprocessing%20and%20Sentiment%20Analysis.ipynb#using-obscene-words)
-- [Creating consolidated dataset](notebooks/Preprocessing%20and%20Sentiment%20Analysis.ipynb#creating-consolidated-dataset)
-- [Writing the dataset](notebooks/Preprocessing%20and%20Sentiment%20Analysis.ipynb#writing-the-dataset)
+This project explores character dynamics, dialogue sentiment, and text-based similarity across four major TV series:
+**Friends, Game of Thrones, The Office,** and **The Big Bang Theory**
+Using natural language processing (NLP), we analyze patterns in scripts to uncover:
+--Character similarities across shows
+--Sentiment trends and emotional arcs
+--Dialogue volume and use of language
+--Script-based obscenity and tone
+The goal is to identify whether perceived similarities between characters are supported by data, and how sentiment might correlate with broader show perception, including IMDB ratings.
+
+
+![image](https://github.com/user-attachments/assets/487d15f7-3113-425b-940e-d5b1a7afa6e9)
