@@ -10,4 +10,3 @@ Using natural language processing (NLP), we analyze patterns in scripts to uncov
 The goal is to identify whether perceived similarities between characters are supported by data, and how sentiment might correlate with broader show perception, including IMDB ratings.
 
 
-![image](https://github.com/user-attachments/assets/487d15f7-3113-425b-940e-d5b1a7afa6e9)
