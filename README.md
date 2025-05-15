@@ -10,6 +10,9 @@ Using natural language processing (NLP), we analyze patterns in scripts to uncov
 - Dialogue volume and use of language
 - Script-based obscenity and tone
 
+  ![image](https://github.com/user-attachments/assets/ed200a7e-612b-48e4-84e2-dc6d08e06db8)
+
+
 The goal is to identify whether perceived similarities between characters are supported by data, and how sentiment might correlate with broader show perception, including IMDB ratings.
 
 ---
