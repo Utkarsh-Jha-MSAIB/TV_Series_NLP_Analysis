@@ -1,5 +1,6 @@
 
 # Character Analysis Across Iconic TV Series
+---
 
 This project explores character dynamics, dialogue sentiment, and text-based similarity across four major TV series:  
 **Friends**, **Game of Thrones**, **The Office**, and **The Big Bang Theory**.
