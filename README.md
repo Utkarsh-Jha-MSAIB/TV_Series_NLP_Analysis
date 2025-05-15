@@ -1,5 +1,5 @@
 
-# 📊 Character Analysis Across Iconic TV Series
+# Character Analysis Across Iconic TV Series
 
 This project explores character dynamics, dialogue sentiment, and text-based similarity across four major TV series:  
 **Friends**, **Game of Thrones**, **The Office**, and **The Big Bang Theory**.
@@ -14,7 +14,7 @@ The goal is to identify whether perceived similarities between characters are su
 
 ---
 
-## 🧠 Framework Overview
+## Framework Overview
 
 | Step | Description |
 |------|-------------|
@@ -25,7 +25,7 @@ The goal is to identify whether perceived similarities between characters are su
 
 ---
 
-## 📘 Project Notebooks
+## Project Notebooks
 
 ### 🔹 [Preprocessing and Sentiment Analysis](Preprocessing%20and%20Sentiment%20Analysis.ipynb)
 
@@ -53,14 +53,14 @@ The goal is to identify whether perceived similarities between characters are su
 
 ---
 
-## 📊 Outputs
+## Outputs
 
 - Visual summaries created in **Tableau**
 - Script-based similarity heatmaps and sentiment trends
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - Python: `pandas`, `nltk`, `textblob`, `vaderSentiment`
 - Jupyter Notebooks, .py scripts
