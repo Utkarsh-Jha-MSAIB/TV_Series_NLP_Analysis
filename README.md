@@ -62,7 +62,7 @@ The goal is to identify whether perceived similarities between characters are su
 
 ## Outputs
 
-- Visual summaries created in **Tableau**
+- Visual summaries created in [**Tableau**](output/Visualizations.pdf)
 - Script-based similarity heatmaps and sentiment trends
 
 ---
