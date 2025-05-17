@@ -1,0 +1,14 @@
+ipykernel
+jupyter
+matplotlib
+nltk
+numpy
+openpyxl
+pandas
+praw
+scikit-learn
+seaborn
+statsmodels
+tqdm
+vaderSentiment
+xgboost
