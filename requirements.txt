@@ -1,13 +1,7 @@
 ipykernel
 jupyter
-matplotlib
-nltk
-numpy
-openpyxl
+pathlib
 pandas
-praw
-scikit-learn
-seaborn
-statsmodels
-tqdm
+re
+nltk
 vaderSentiment
